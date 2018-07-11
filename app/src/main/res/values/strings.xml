@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">X-VOL</string>
+    <string name="app_author">© 2018 Potesta De Tornaco</string>
+    <string name="app_intro">长按音量切歌</string>
+</resources>
